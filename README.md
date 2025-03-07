@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Rafael!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+nicolly!;" />
 </h1>
 
 <p float="left">
@@ -8,10 +8,10 @@
 </p>
 
 <BR>
-- 👨‍💻 Gosto de computação
+-  😘 gosto de livros, series e comprinhas
 <br>
 <BR>
-- 😉Formatação
+- 😉lifestyle
 <br>
 <BR>
 - 💞️ CMD
