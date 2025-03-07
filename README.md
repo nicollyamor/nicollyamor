@@ -8,31 +8,31 @@
 </p>
 
 <BR>
--  😘 gosto de livros, series e comprinhas
+-  🛍️ comprinhas
 <br>
 <BR>
-- 😉lifestyle
+- 🎀lifestyle
 <br>
 <BR>
-- 💞️ CMD
+- 📸 pictures
 <br>
 <BR>
-- 💻 Modificar bios de notebook
+- 📚 livros
 <br>
 <BR>
-- 🤔 Front-end
+- 🎞️ series
 <br>
 <BR>
-- 🤯 Back-end
+- 🌄 nascer do sol
 <br>
 <BR>
-- 💞 Javascript
+- 💞 maquiagem
 <br>
 <BR>
-- 💰 style.css
+- 🌈 dias de chuva
 <br>
 <BR>
-- 🕸️ index.html
+- 🏋🏻‍♀️ academia
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"&gt;
