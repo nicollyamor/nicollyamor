@@ -4,7 +4,7 @@
 
 <p float="left">
   <img src="unnamed.jpg" width="400px" />
-  <img src="ras3.jpg" height="300px" width="400px" />
+  <img src="grdr 2025-01-26 210500.435.jpg" height="300px" width="400px" />
 </p>
 
 <BR>
