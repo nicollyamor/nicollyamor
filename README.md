@@ -3,7 +3,7 @@
 </h1>
 
 <p float="left">
-  <img src="IMG_8921.HEIC" width="400px" />
+  <img src="unnamed.jpg" width="400px" />
   <img src="ras3.jpg" height="300px" width="400px" />
 </p>
 
