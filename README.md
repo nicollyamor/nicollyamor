@@ -3,8 +3,8 @@
 </h1>
 
 <p float="left">
-  <img src="unnamed.jpg" width="400px" />
-  <img src="grdr 2025-01-26 210500.435.jpg" height="300px" width="400px" />
+  <img src="unnamed.jpg"  height="500px" width="500px" />
+  <img src="grdr 2025-01-26 210500.435.jpg" height="560px" width="500px" />
 </p>
 
 <BR>
